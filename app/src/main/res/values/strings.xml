@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">kotlin_training_app</string>
+    <string name="title_app" translatable="false">English Words</string>
+    <string name="button_skip">skip</string>
+    <string name="title_correct">Correct!</string>
+    <string name="title_wrong">Wrong!</string>
+    <string name="button_continue">continue</string>
+    <string name="msg_complete">Complete!</string>
 </resources>

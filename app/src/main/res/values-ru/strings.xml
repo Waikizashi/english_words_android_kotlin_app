@@ -1,0 +1,8 @@
+<resources>
+    <string name="title_app">English Words</string>
+    <string name="button_skip">пропустить</string>
+    <string name="title_correct">Правильно!</string>
+    <string name="button_continue">продолжить</string>
+    <string name="title_wrong">Неправильно!</string>
+    <string name="msg_complete">Завершено!</string>
+</resources>
